@@ -1,0 +1,17 @@
+# Ignore version control system metadata
+.git/
+.hg/
+.svn/
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore test files
+# tests/
+*.pyc
